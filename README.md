@@ -14,5 +14,5 @@ Jumble [Exercise](chapter_1/jumble.pdf)
 
 ### Chapter 2
 
-Luhn Checksum Validation - [Fixed Length](chapter_2/luhnChecksumValidationFixedLength_inProgress.pdf)- in[markdown](chapter_2/luhnChecksumValidationFixedLength.md)
+Luhn Checksum Validation - [Fixed Length](chapter_2/luhnChecksumValidationFixedLength_inProgress.pdf)- now in [markdown](chapter_2/luhnChecksumValidationFixedLength.md)
 

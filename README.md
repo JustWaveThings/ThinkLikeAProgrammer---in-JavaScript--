@@ -8,5 +8,11 @@ Repository of the exercises I completed in the book 'Think Like a Programmer' by
 
 Medium Sudoku [Created Plan](chapter_1/mediumSudoku.pdf) and [Spreadsheet Test of Plan](chapter_1/medSudokuTrialSpreadsheet.pdf) and the [Sudoku Results](chapter_1/sudokuTrial.pdf)
 
+Sam Loyd Puzzle [Exercise](chapter_1/samLoydExercise.pdf)
+
+Jumble [Exercise](chapter_1/jumble.pdf)
+
 ### Chapter 2
+
+Luhn Checksum Validation - [Fixed Length](chapter_2/luhnChecksumValidationFixedLength_inProgress.pdf)
 

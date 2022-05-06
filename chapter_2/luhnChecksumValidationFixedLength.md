@@ -3,7 +3,7 @@
 - See the [pdf](/chapter_2/luhnChecksumValidationFixedLength_inProgress.pdf) for the problem explanation and my analysis. Below is my pseudocode and then the plan is to code it out to make a working example.
 
 ##Psuedocode -
-```
+
 A)  We have to read and process each digit one at a time (left to right). We can’t store the numbers. 
 
     We would need a variable to store the processed output from each digit that would sum to the previous output - this would allow us to discard the previous inputs.
@@ -33,3 +33,4 @@ let oddEven = (curNumIndex/2);
 if oddEven modulo is not zero, then it's an odd number, then we'd just add curNum to cumSum. Else we'd need to double the number.
 
 I'm thinking a nested if statement or switch statement would be the best structure for this part of the exercise.
+```

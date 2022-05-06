@@ -2,7 +2,7 @@
  Exercises listed in 'Think Like a Programmer' 
 
 ### Chapter 1 
-[Alien Lock Problem](alien_lock_problem-think_like_a_ programmer.pdf)
+[chapter_1/alien_lock_problem-think_like_a_ programmer.pdf] (test)
 
 
 

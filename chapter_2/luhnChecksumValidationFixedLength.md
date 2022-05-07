@@ -30,3 +30,13 @@ if oddEven modulo is not zero, then it's an odd number, then we'd just add curNu
 
 I'm thinking a nested if statement or switch statement would be the best structure for this part of the exercise.
 ```
+We could either define action for numbers 10-18 and if that was true, we’d split the two digits using slice or a similar built in function. Or, we could convert every number to string and if length is 2, slice, convert back to number and add them individually.
+
+The check digit is included in this example.
+We know the length of this ID without check digit is 5. 
+
+```
+
+pcode goes here
+
+```
